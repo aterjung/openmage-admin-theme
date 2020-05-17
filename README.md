@@ -1,4 +1,4 @@
-#OpenMage Admin Theme experiment
+## OpenMage Admin Theme experiment
 
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
